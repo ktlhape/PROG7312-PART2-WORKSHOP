@@ -1,0 +1,15 @@
+D:\VC\PROG7312\PROG7312_Part2\PROG7312_Part2\bin\Debug\net7.0\PROG7312_Part2.exe
+D:\VC\PROG7312\PROG7312_Part2\PROG7312_Part2\bin\Debug\net7.0\PROG7312_Part2.deps.json
+D:\VC\PROG7312\PROG7312_Part2\PROG7312_Part2\bin\Debug\net7.0\PROG7312_Part2.runtimeconfig.json
+D:\VC\PROG7312\PROG7312_Part2\PROG7312_Part2\bin\Debug\net7.0\PROG7312_Part2.dll
+D:\VC\PROG7312\PROG7312_Part2\PROG7312_Part2\bin\Debug\net7.0\PROG7312_Part2.pdb
+D:\VC\PROG7312\PROG7312_Part2\PROG7312_Part2\obj\Debug\net7.0\PROG7312_Part2.csproj.AssemblyReference.cache
+D:\VC\PROG7312\PROG7312_Part2\PROG7312_Part2\obj\Debug\net7.0\PROG7312_Part2.GeneratedMSBuildEditorConfig.editorconfig
+D:\VC\PROG7312\PROG7312_Part2\PROG7312_Part2\obj\Debug\net7.0\PROG7312_Part2.AssemblyInfoInputs.cache
+D:\VC\PROG7312\PROG7312_Part2\PROG7312_Part2\obj\Debug\net7.0\PROG7312_Part2.AssemblyInfo.cs
+D:\VC\PROG7312\PROG7312_Part2\PROG7312_Part2\obj\Debug\net7.0\PROG7312_Part2.csproj.CoreCompileInputs.cache
+D:\VC\PROG7312\PROG7312_Part2\PROG7312_Part2\obj\Debug\net7.0\PROG7312_Part2.dll
+D:\VC\PROG7312\PROG7312_Part2\PROG7312_Part2\obj\Debug\net7.0\refint\PROG7312_Part2.dll
+D:\VC\PROG7312\PROG7312_Part2\PROG7312_Part2\obj\Debug\net7.0\PROG7312_Part2.pdb
+D:\VC\PROG7312\PROG7312_Part2\PROG7312_Part2\obj\Debug\net7.0\PROG7312_Part2.genruntimeconfig.cache
+D:\VC\PROG7312\PROG7312_Part2\PROG7312_Part2\obj\Debug\net7.0\ref\PROG7312_Part2.dll
